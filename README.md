@@ -24,11 +24,12 @@
     <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" title="Kafka" alt="Kafka" width="55" height=55"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" title="Keycloak" alt="Keycloak" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height=50" />
+    <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" title="nginx" alt="nginx" width="45" height=50" />
   </div>
 
 #### Additional Tools
   <div id="additional_tools">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height=50"/>
+    <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" title="GitHub" alt="GitHub" width="60" height=60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="50" height=50"/>
