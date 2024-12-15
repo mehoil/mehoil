@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MehoiLs</h1>
+  <h1>MehoiL</h1>
 </div>
 
 ## Tech Stack
